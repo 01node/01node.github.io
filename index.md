@@ -1,8 +1,8 @@
 # 01node.com Staking Services
 
-01node provides Staking Services for the best  POS Networks
+[01node](https://01node.com) provides Staking Services for the following  POS Networks:
 
-some of them are: Cosmos Network, Iris Network, Polkadot, Tezos, Terra Money
+ Cosmos Network, Iris Network, Polkadot, Tezos, Terra Money
 
 we provide an easy to use delegation tool:
  [https://01node.com/cosmos-validator-rewards/#delegate-with-us](https://01node.com/cosmos-validator-rewards/#delegate-with-us)
@@ -26,7 +26,9 @@ our delegation address:  cosmosvaloper17mggn4znyeyg25wd7498qxl7r2jhgue8u4qjcq
 
 Check on: [BigDipper](%5Bhttps://cosmos.bigdipper.live/validator/B4E1085F1C9EBB0EA994452CB1B8124BA89BED1A%5D)  or [Stargazer](https://stargazer.certus.one/validators/B4E1085F1C9EBB0EA994452CB1B8124BA89BED1A)
 ## Iris Network
+
 [https://01node.com/irisnet-validator-rewards/](https://01node.com/irisnet-validator-rewards/)
+
 our delegation address: iva1nzgvvfam8n4lskkcqmhes07td6wkum9cffvkkx
 check on [BigDipper](https://iris.bigdipper.live/validator/EE39100E08C79F5E43ABE47B16B0EEA83F380A43) or [irisplorer](https://www.irisplorer.io/#/address/1/iva1nzgvvfam8n4lskkcqmhes07td6wkum9cffvkkx) or [genesislab](https://irisnet-overview.genesislab.net/iva1nzgvvfam8n4lskkcqmhes07td6wkum9cffvkkx)
 ## Terra Money
