@@ -35,17 +35,26 @@ Check on: [BigDipper](https://cosmos.bigdipper.live/validator/B4E1085F1C9EBB0EA9
 our delegation address: iva1nzgvvfam8n4lskkcqmhes07td6wkum9cffvkkx
 
 check on [BigDipper](https://iris.bigdipper.live/validator/EE39100E08C79F5E43ABE47B16B0EEA83F380A43) or [irisplorer](https://www.irisplorer.io/#/address/1/iva1nzgvvfam8n4lskkcqmhes07td6wkum9cffvkkx) or [genesislab](https://irisnet-overview.genesislab.net/iva1nzgvvfam8n4lskkcqmhes07td6wkum9cffvkkx)
+
+01node Secure Iris Validator
+
 ## Terra Money
 
 [https://01node.com/terra/](https://01node.com/terra/)
+
+01node Secure Terra Validator
 
 ## Tezos
 
 [https://01node.com/tezos-baker-rewards/](https://01node.com/tezos-baker-rewards/)
 
+01node Secure Tezos Baker
+
 ## Polkadot
 
 [https://01node.com/polkadot-validator-rewards/](https://01node.com/polkadot-validator-rewards/)
+
+01node Secure Polkadot Validator
 
 # Dfinity
 
