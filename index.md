@@ -25,6 +25,9 @@ our team can be found on linkedin:
 our delegation address:  cosmosvaloper17mggn4znyeyg25wd7498qxl7r2jhgue8u4qjcq
 
 Check on: [BigDipper](https://cosmos.bigdipper.live/validator/B4E1085F1C9EBB0EA994452CB1B8124BA89BED1A)  or [Stargazer](https://stargazer.certus.one/validators/B4E1085F1C9EBB0EA994452CB1B8124BA89BED1A)
+
+01node Secure Cosmos Validator
+
 ## Iris Network
 
 [https://01node.com/irisnet-validator-rewards/](https://01node.com/irisnet-validator-rewards/)
